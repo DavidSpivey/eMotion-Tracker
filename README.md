@@ -16,7 +16,7 @@ This is a custom card for eMotion Max sensors that shows realtime movement and m
 
 1.  **Open HACS** on your Home Assistant dashboard.
 2.  Click the three dots in the top right corner and select **Custom repositories**.
-3.  In the "Repository" field, enter the URL of the GitHub repository containing the card.
+3.  In the "Repository" field, enter **https://github.com/DavidSpivey/eMotion-Tracker**
 4.  In the "Category" dropdown, select **Dashboard**.
 5.  Click **Add**.
 6.  Close the Custom Repositories box
