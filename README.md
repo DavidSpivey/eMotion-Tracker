@@ -18,12 +18,11 @@ This is a custom card for eMotion Max sensors that shows realtime movement and m
 2.  Click the three dots in the top right corner and select **Custom repositories**.
 3.  In the "Repository" field, enter **https://github.com/DavidSpivey/eMotion-Tracker**
 4.  In the "Category" dropdown, select **Dashboard**.
-5.  Click **Add**.
-6.  Close the Custom Repositories box
-7.  Search for **eMotion Max Motion Card** and click on it.
-8.  Click **DOWNLOAD** at the bottom right.
-9.  Click **DOWNLOAD** onn the box that pops up
-10.  When Prompted, click **RELOAD** to prepare your dashboard for the custom card.
+5.  Click **Add** and **Close** the Custom Repositories box.
+6.  Search for **eMotion Max Motion Card** and click on it.
+7.  Click **DOWNLOAD** at the bottom right.
+8.  Click **DOWNLOAD** on the box that pops up
+9.  When Prompted, click **RELOAD** to prepare your dashboard for the custom card.
 
 ## Adding the Card to Your Dashboard
 
