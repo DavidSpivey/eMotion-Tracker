@@ -29,7 +29,7 @@ This is a custom card for eMotion Max sensors that shows realtime movement and m
 1.  In any Home Assistant custom dashboard (**not Overview**), click the three dots in the top right corner and select **Edit Dashboard**.
 2.  Click the **Add Card** button.
 3.  Search for "eMotion Max Presence Card" and select it.
-4.  Save the changes to your dashboard.
+4.  Save the changes to your dashboard by clicking **DONE** at the top right.
 5.  Select your sensor from the dropdown list within the card's controls to begin seeing motion.
 
 ---
