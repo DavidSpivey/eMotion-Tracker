@@ -55,7 +55,7 @@ class EmotionMaxCard extends HTMLElement {
 				const device = hass.devices[deviceId];
 				seenDeviceIds.add(deviceId);
 
-				if (device && device.manufacturer === 'LinknLink' && (device.model === 'eMotion Max' || device.model === 'eMotion Max 2')) {
+				if (device && device.manufacturer === 'LinknLink' && device.model.startsWith('eMotion Max')) {
 					console.log(`%c[DEBUG] MATCH FOUND! Device:`, 'color: green; font-weight: bold;', device);
 					const match = entity.entity_id.match(/lnlinkha_([a-f0-9]+)/);
 					if (match && match[1]) {
@@ -299,3 +299,4 @@ window.customCards.push({
   description: "A card to display presence data from eMotion Max sensors.",
   preview: true,
 });
+
